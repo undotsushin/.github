@@ -10,7 +10,7 @@ and diverse culture.
 スポーツの魅力を最大化し、豊かな社会、多様な文化を作る。
 
 ## MISSION 02.
-Elevate the power of amateur,  Kv
+Elevate the power of amateur,  
 local and minor sports.
 
 アマチュア・ローカル・マイナースポーツの持つ力を掘り起こす。
