@@ -1,6 +1,23 @@
 # CRAZY FOR SPORTS
 
-![corporate logo](https://github.com/undotsushin/.github/blob/main/images/corporate_logo.png)
+<!-- ![corporate logo](https://github.com/undotsushin/.github/blob/main/images/corporate_logo.png) -->
+
+<picture>
+  <!-- ダークモード用 -->
+  <source
+    srcset="../images/corporate_logo_white.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- ライトモード用 -->
+  <source srcset="../images/corporate_logo_black.svg" />
+  <img
+    src="../images/corporate_logo_black.svg"
+    alt="corporate logo"
+    width="300"
+    height="300"
+    style="box-sizing: border-box; width: 100%; height: 100%; padding: 50px 10%"
+  />
+</picture>
 
 ## MISSION 01.
 Maximize the appeal of sports,  
