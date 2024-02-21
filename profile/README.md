@@ -2,22 +2,23 @@
 
 <!-- ![corporate logo](https://github.com/undotsushin/.github/blob/main/images/corporate_logo.png) -->
 
-<picture>
-  <!-- ダークモード用 -->
-  <source
-    srcset="https://github.com/undotsushin/.github/blob/main/images/corporate_logo_white.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <!-- ライトモード用 -->
-  <source srcset="https://github.com/undotsushin/.github/blob/main/images/corporate_logo_black.svg" />
-  <img
-    src="https://github.com/undotsushin/.github/blob/main/images/corporate_logo_black.svg"
-    alt="corporate logo"
-    width="300"
-    height="300"
-    style="box-sizing: border-box; width: 100%; height: 100%; padding: 50px 10%"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <!-- ダークモード用 -->
+    <source
+      srcset="https://github.com/undotsushin/.github/blob/main/images/corporate_logo_white.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- ライトモード用 -->
+    <source srcset="https://github.com/undotsushin/.github/blob/main/images/corporate_logo_black.svg" />
+    <img
+      src="https://github.com/undotsushin/.github/blob/main/images/corporate_logo_black.svg"
+      alt="corporate logo"
+      width="80%"
+      height="380"
+    />
+  </picture>
+</p>
 
 ## MISSION 01.
 Maximize the appeal of sports,  
