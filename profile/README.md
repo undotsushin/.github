@@ -15,7 +15,7 @@
       src="https://github.com/undotsushin/.github/blob/main/images/corporate_logo_black.svg"
       alt="corporate logo"
       width="80%"
-      height="380"
+      height="300"
     />
   </picture>
 </p>
