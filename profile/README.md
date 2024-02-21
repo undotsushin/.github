@@ -5,13 +5,13 @@
 <picture>
   <!-- ダークモード用 -->
   <source
-    srcset="../images/corporate_logo_white.svg"
+    srcset="https://github.com/undotsushin/.github/blob/main/images/corporate_logo_white.svg"
     media="(prefers-color-scheme: dark)"
   />
   <!-- ライトモード用 -->
-  <source srcset="../images/corporate_logo_black.svg" />
+  <source srcset="https://github.com/undotsushin/.github/blob/main/images/corporate_logo_black.svg" />
   <img
-    src="../images/corporate_logo_black.svg"
+    src="https://github.com/undotsushin/.github/blob/main/images/corporate_logo_black.svg"
     alt="corporate logo"
     width="300"
     height="300"
